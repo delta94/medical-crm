@@ -5,9 +5,11 @@ import styles from './header.module.css'
 
 const Header = () => {
   return (
-      <div className={styles.nav}>
+    <div className={styles.nav}>
+      <div>
         <Link to='/'><h1>Электронная поликлиника</h1></Link>
       </div>
+    </div>
   )
 }
 

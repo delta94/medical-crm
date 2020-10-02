@@ -1,0 +1,25 @@
+.header {
+  margin-top: 10px;
+  cursor: pointer;
+  text-align: center;
+  color: #E76F51;
+}
+
+.wrapperChose {
+  display: flex;
+  justify-content: center;
+}
+
+.chose {
+  margin-top: 10px;
+  margin-right: 10px;
+  text-align: center;
+  cursor: pointer;
+  color: #E76F51;
+}
+
+.wrapper {
+  display: flex;
+  width: auto;
+  height: 800px;
+}

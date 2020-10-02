@@ -11,7 +11,7 @@ const Patients = () => {
   const [patients, setPatients] = useState([])
   const [searchValue, setSearchValue] = useState('')
   const [currentPage, setCurrentPage] = useState(1)
-  const [patientPerPage] = useState(10)
+  const [patientPerPage] = useState(15)
 
 
   useEffect(() => {

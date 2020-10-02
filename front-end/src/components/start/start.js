@@ -9,6 +9,7 @@ const Start = () => {
       <div className={styles.flex}>
         <Link className={styles.link} to={'#'}>Для пациента</Link>
         <Link className={styles.link} to={'/auth'}>Для врача</Link>
+        <Link className={styles.link} to='/analytics'>Аналитика</Link>
       </div>
     </div>
   )

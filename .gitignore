@@ -1,4 +1,5 @@
 .idea/
+seeder.js
 # Logs
 logs
 *.log

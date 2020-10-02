@@ -11,6 +11,7 @@ import ErrorPage from "./components/errorPage/errorPage"
 import NewPatient from "./components/patient/newPatient/newPatient"
 import Start from "./components/start/start"
 import PatientProfile from "./components/patient/patientProfile/patientProfile"
+import Graphs from "./components/graphs/graphs"
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
       <Switch>
         <Route path='/patients/:id'>
           <PatientProfile />
+        </Route>
+        <Route path='/analytics'>
+          <Graphs/>
         </Route>
         <Route path='/auth'>
           <Auth/>
