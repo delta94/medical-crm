@@ -1,0 +1,31 @@
+.auth {
+  margin-top: 125px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #E76F51;
+}
+
+.input {
+  font-size: 16px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 50px;
+}
+
+.input label {
+  margin-left: 20px;
+}
+
+.authInput {
+  width: 650px;
+  height: 50px;
+  background-color: #2A9D8F;
+  border: none;
+  margin: 5px;
+  color: white;
+  font-size: 26px;
+  font-weight: 300;
+  outline: none;
+}

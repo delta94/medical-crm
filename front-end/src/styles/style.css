@@ -1,0 +1,23 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h2 {
+  font-size: 24px;
+  font-weight: 300;
+}
+
+a {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.my-container {
+  width: 1440px;
+  margin: 0 auto;
+}

@@ -1,0 +1,10 @@
+.pag {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+.pag a {
+  cursor: pointer;
+  color: #2A9D8F;
+}

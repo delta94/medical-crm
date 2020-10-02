@@ -1,0 +1,30 @@
+.input {
+  font-size: 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+}
+
+.input div {
+  width: 30%;
+  text-align: right;
+  font-size: 25px;
+}
+
+.patientInput {
+  width: 650px;
+  height: 50px;
+  background-color: #2A9D8F;
+  border: none;
+  margin: 5px;
+  color: white;
+  font-size: 26px;
+  font-weight: 300;
+  outline: none;
+  flex-basis: 70%;
+}
+
+.submit {
+  display: flex;
+}

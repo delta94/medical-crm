@@ -1,0 +1,28 @@
+{
+  "name": "handlebars-client-challenge",
+  "version": "1.0.0",
+  "description": "## Введение В этом задании вам предстоит создать `Express`-приложение с нуля, освоить передачу шаблонов Handlebars с бекенда на фронтэнд и навешивание обработчиков на динамически добавляемые элементы.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickBGor/handlebars-client-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickBGor/handlebars-client-challenge/issues"
+  },
+  "homepage": "https://github.com/NickBGor/handlebars-client-challenge#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "hbs": "^4.1.1",
+    "mongoose": "^5.10.5",
+    "nodemon": "^2.0.4"
+  }
+}

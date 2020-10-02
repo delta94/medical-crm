@@ -1,0 +1,9 @@
+.flex {
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-around;
+}
+.link {
+  color: #E76F51;
+  font-size: 20px;
+}
