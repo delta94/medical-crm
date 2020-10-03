@@ -4,9 +4,9 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon server",
+    "start": "nodemon server"
   },
-  "author": "Nikita Gorchakov <nikitagorchakov880091@gmail.com",
+  "author": "Nikita Gorchakov <nikitagorchakov880091@gmail.com>",
   "license": "ISC",
   "homepage": "",
   "dependencies": {

@@ -6,7 +6,7 @@
   "scripts": {
     "start": "concurrently \"npm start --prefix front-end\" \"npm start --prefix back-end\""
   },
-  "author": "",
+  "author": "Nikita Gorchakov <nikitagorchakov880091@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "concurrently": "^5.3.0"
